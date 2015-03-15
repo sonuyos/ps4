@@ -1,0 +1,14 @@
+
+<?xml version="1.0" ?>
+<update_data_list>
+	<region id="ru">
+		<force_update>
+			<system level0_system_version="02.501.000" level1_system_version="02.501.000"/>
+		</force_update>
+		<system_pup label="SKFU's 2.50 Beta v1" version="02.501.000">
+			<update_data update_type="full">
+				<image size="244963840">http://dru01.ps4.update.playstation.net/update/ps4/beta/image/2015_0304/sys_3e9a16165a86a7dde26ea352caf88769/PS4UPDATE.PUP?dest=ru</image>
+			</update_data>
+		</system_pup>
+	</region>
+</update_data_list>
